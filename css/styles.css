@@ -1,5 +1,12 @@
+
+/*classes  
 .headshot {
   width: 120%;
   height: auto;
   border-radius:20%
+}
+*/
+
+.headshot {
+  border-radius: 50%;
 }
